@@ -1,0 +1,1054 @@
+[
+    {
+        "id": 1,
+        "title": "My Family",
+        "prompt": "Write a short essay about your family. Describe your family members and what you like to do together. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "narrative",
+        "topic": "family",
+        "requirements": [
+            "Use simple present tense",
+            "Include at least 3 family members",
+            "Use adjectives to describe people"
+        ],
+        "keywords": ["family", "parents", "siblings", "love", "home"]
+    },
+    {
+        "id": 2,
+        "title": "My Hometown",
+        "prompt": "Describe your hometown. What does it look like? What are the special places there? (80-100 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "descriptive",
+        "topic": "hometown",
+        "requirements": [
+            "Use descriptive adjectives",
+            "Describe at least 2 places",
+            "Use there is/are structure"
+        ],
+        "keywords": ["hometown", "city", "countryside", "places", "description"]
+    },
+    {
+        "id": 3,
+        "title": "The Advantages of Technology",
+        "prompt": "Write an essay about the advantages of technology in our daily life. Give at least 3 examples. (100-120 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "argumentative",
+        "topic": "technology",
+        "requirements": [
+            "Use topic sentences",
+            "Provide clear examples",
+            "Use connectors: firstly, secondly, finally"
+        ],
+        "keywords": ["technology", "advantages", "internet", "communication", "education"]
+    },
+    {
+        "id": 4,
+        "title": "My Favorite Animal",
+        "prompt": "Describe your favorite animal. Explain its appearance, habitat, and why you like it. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "descriptive",
+        "topic": "animals",
+        "requirements": [
+            "Use at least 5 adjectives",
+            "Describe appearance and behavior",
+            "Use present simple tense"
+        ],
+        "keywords": ["animal", "pet", "wild", "appearance", "characteristics"]
+    },
+    {
+        "id": 5,
+        "title": "A Memorable Holiday",
+        "prompt": "Write about your most memorable holiday experience. Where did you go and what made it special? (80-100 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "narrative",
+        "topic": "travel",
+        "requirements": [
+            "Use past tense",
+            "Include sensory details",
+            "Describe feelings and experiences"
+        ],
+        "keywords": ["holiday", "travel", "memory", "experience", "vacation"]
+    },
+    {
+        "id": 6,
+        "title": "Environmental Protection",
+        "prompt": "Write an essay on the importance of environmental protection. What can individuals do to help? (100-120 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "persuasive",
+        "topic": "environment",
+        "requirements": [
+            "State a clear thesis",
+            "Provide practical solutions",
+            "Use persuasive language"
+        ],
+        "keywords": ["environment", "protection", "pollution", "sustainability", "earth"]
+    },
+    {
+        "id": 7,
+        "title": "My Daily Routine",
+        "prompt": "Describe your typical daily routine from morning to night. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "descriptive",
+        "topic": "daily life",
+        "requirements": [
+            "Use time connectors (first, then, after that)",
+            "Include at least 5 activities",
+            "Use simple present tense"
+        ],
+        "keywords": ["routine", "daily", "schedule", "activities", "time"]
+    },
+    {
+        "id": 8,
+        "title": "The Importance of Reading",
+        "prompt": "Discuss why reading is important for personal development. (100-120 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "argumentative",
+        "topic": "education",
+        "requirements": [
+            "Provide at least 3 reasons",
+            "Use supporting evidence",
+            "Include a conclusion"
+        ],
+        "keywords": ["reading", "knowledge", "imagination", "education", "books"]
+    },
+    {
+        "id": 9,
+        "title": "My Dream Job",
+        "prompt": "Describe your dream job and explain why you want to pursue it. (80-100 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "reflective",
+        "topic": "career",
+        "requirements": [
+            "Describe the job duties",
+            "Explain your motivation",
+            "Use future tense for plans"
+        ],
+        "keywords": ["job", "career", "dream", "future", "ambition"]
+    },
+    {
+        "id": 10,
+        "title": "Healthy Lifestyle",
+        "prompt": "Write about the benefits of a healthy lifestyle and how to achieve it. (100-120 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "expository",
+        "topic": "health",
+        "requirements": [
+            "Discuss diet and exercise",
+            "Give practical tips",
+            "Use scientific facts if possible"
+        ],
+        "keywords": ["health", "exercise", "diet", "lifestyle", "wellness"]
+    },
+    {
+        "id": 11,
+        "title": "The Four Seasons",
+        "prompt": "Describe the four seasons and explain which one is your favorite. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "descriptive",
+        "topic": "seasons",
+        "requirements": [
+            "Describe each season briefly",
+            "Explain your favorite",
+            "Use weather-related vocabulary"
+        ],
+        "keywords": ["seasons", "weather", "spring", "summer", "autumn", "winter"]
+    },
+    {
+        "id": 12,
+        "title": "Cyberbullying and Its Effects",
+        "prompt": "Discuss the issue of cyberbullying and its effects on young people. (100-120 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "argumentative",
+        "topic": "social issues",
+        "requirements": [
+            "Define cyberbullying",
+            "Explain psychological effects",
+            "Suggest prevention methods"
+        ],
+        "keywords": ["cyberbullying", "internet", "safety", "mental health", "prevention"]
+    },
+    {
+        "id": 13,
+        "title": "My Best Friend",
+        "prompt": "Describe your best friend and explain why you appreciate them. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "descriptive",
+        "topic": "friendship",
+        "requirements": [
+            "Describe physical appearance",
+            "Explain personality traits",
+            "Share a memorable experience"
+        ],
+        "keywords": ["friend", "friendship", "personality", "memories", "trust"]
+    },
+    {
+        "id": 14,
+        "title": "Global Warming Solutions",
+        "prompt": "Explain the causes of global warming and propose practical solutions. (120-150 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "expository",
+        "topic": "environment",
+        "requirements": [
+            "Explain scientific causes",
+            "Propose 3 solutions",
+            "Use data if available"
+        ],
+        "keywords": ["global warming", "climate", "solutions", "carbon", "environment"]
+    },
+    {
+        "id": 15,
+        "title": "School Life",
+        "prompt": "Describe your typical day at school. (80-100 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "descriptive",
+        "topic": "school",
+        "requirements": [
+            "Describe your schedule",
+            "Mention favorite subjects",
+            "Talk about school activities"
+        ],
+        "keywords": ["school", "classroom", "subjects", "teachers", "learning"]
+    },
+    {
+        "id": 16,
+        "title": "My Favorite Book",
+        "prompt": "Write about your favorite book and explain why you like it. (80-100 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "reflective",
+        "topic": "literature",
+        "requirements": [
+            "Briefly summarize the plot",
+            "Explain what you learned",
+            "Describe favorite characters"
+        ],
+        "keywords": ["book", "reading", "story", "characters", "lessons"]
+    },
+    {
+        "id": 17,
+        "title": "My Pet",
+        "prompt": "Write about your pet or a pet you would like to have. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "narrative",
+        "topic": "pets",
+        "requirements": [
+            "Describe the pet's appearance",
+            "Talk about its habits",
+            "Explain why you like it"
+        ],
+        "keywords": ["pet", "animal", "care", "love", "responsibility"]
+    },
+    {
+        "id": 18,
+        "title": "Social Media Impact",
+        "prompt": "Analyze the positive and negative impacts of social media on society. (120-150 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "argumentative",
+        "topic": "technology",
+        "requirements": [
+            "Compare pros and cons",
+            "Use specific examples",
+            "Provide balanced view"
+        ],
+        "keywords": ["social media", "impact", "communication", "privacy", "society"]
+    },
+    {
+        "id": 19,
+        "title": "A Day at the Park",
+        "prompt": "Describe a perfect day spent at a park. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "descriptive",
+        "topic": "leisure",
+        "requirements": [
+            "Describe the park scenery",
+            "List activities you do",
+            "Use sensory details"
+        ],
+        "keywords": ["park", "nature", "play", "relax", "outdoor"]
+    },
+    {
+        "id": 20,
+        "title": "The Value of Teamwork",
+        "prompt": "Explain why teamwork is important in sports or other activities. (100-120 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "expository",
+        "topic": "sports",
+        "requirements": [
+            "Define teamwork",
+            "Give examples from sports",
+            "Explain benefits"
+        ],
+        "keywords": ["teamwork", "cooperation", "sports", "success", "collaboration"]
+    },
+    {
+        "id": 21,
+        "title": "My First Day at School",
+        "prompt": "Write about your first day at school. How did you feel and what happened? (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "narrative",
+        "topic": "school",
+        "requirements": [
+            "Use past tense",
+            "Describe your feelings",
+            "Include 2-3 events"
+        ],
+        "keywords": ["first day", "school", "nervous", "excited", "memories"]
+    },
+    {
+        "id": 22,
+        "title": "The Power of Music",
+        "prompt": "Write about how music affects your life and emotions. (100-120 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "reflective",
+        "topic": "music",
+        "requirements": [
+            "Describe emotional impact",
+            "Give specific examples",
+            "Use figurative language"
+        ],
+        "keywords": ["music", "emotions", "therapy", "expression", "culture"]
+    },
+    {
+        "id": 23,
+        "title": "Helping at Home",
+        "prompt": "Describe how you help with chores at home. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "descriptive",
+        "topic": "family",
+        "requirements": [
+            "List 3-4 chores",
+            "Explain why it's important",
+            "Use simple present tense"
+        ],
+        "keywords": ["chores", "help", "responsibility", "family", "home"]
+    },
+    {
+        "id": 24,
+        "title": "Traditional Festivals",
+        "prompt": "Describe your favorite traditional festival and how it is celebrated. (100-120 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "descriptive",
+        "topic": "culture",
+        "requirements": [
+            "Describe traditions",
+            "Explain significance",
+            "Use sensory details"
+        ],
+        "keywords": ["festival", "tradition", "celebration", "culture", "customs"]
+    },
+    {
+        "id": 25,
+        "title": "Artificial Intelligence Ethics",
+        "prompt": "Discuss the ethical considerations in the development of artificial intelligence. (120-150 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "argumentative",
+        "topic": "technology",
+        "requirements": [
+            "Identify ethical issues",
+            "Provide examples",
+            "Suggest guidelines"
+        ],
+        "keywords": ["AI", "ethics", "technology", "responsibility", "future"]
+    },
+    {
+        "id": 26,
+        "title": "My Favorite Food",
+        "prompt": "Describe your favorite food and how it is prepared. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "descriptive",
+        "topic": "food",
+        "requirements": [
+            "Describe appearance and taste",
+            "Explain when you eat it",
+            "Use descriptive adjectives"
+        ],
+        "keywords": ["food", "taste", "cooking", "delicious", "meal"]
+    },
+    {
+        "id": 27,
+        "title": "Time Management Skills",
+        "prompt": "Explain the importance of time management for students. (100-120 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "expository",
+        "topic": "education",
+        "requirements": [
+            "Explain benefits",
+            "Give practical tips",
+            "Use examples"
+        ],
+        "keywords": ["time management", "organization", "study", "efficiency", "schedule"]
+    },
+    {
+        "id": 28,
+        "title": "Climate Change Adaptation",
+        "prompt": "How can cities adapt to the challenges of climate change? (120-150 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "persuasive",
+        "topic": "environment",
+        "requirements": [
+            "Propose concrete solutions",
+            "Use data if possible",
+            "Consider urban planning"
+        ],
+        "keywords": ["climate change", "adaptation", "sustainability", "urban", "resilience"]
+    },
+    {
+        "id": 29,
+        "title": "At the Zoo",
+        "prompt": "Write about your visit to a zoo. What animals did you see? (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "narrative",
+        "topic": "animals",
+        "requirements": [
+            "Name 4-5 animals",
+            "Describe your favorite",
+            "Use past tense"
+        ],
+        "keywords": ["zoo", "animals", "visit", "wildlife", "fun"]
+    },
+    {
+        "id": 30,
+        "title": "Cultural Diversity",
+        "prompt": "Discuss the importance of cultural diversity in modern society. (120-150 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "argumentative",
+        "topic": "society",
+        "requirements": [
+            "Define cultural diversity",
+            "Explain benefits",
+            "Address challenges"
+        ],
+        "keywords": ["culture", "diversity", "society", "tolerance", "understanding"]
+    },
+    {
+        "id": 31,
+        "title": "My Bedroom",
+        "prompt": "Describe your bedroom and your favorite things in it. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "descriptive",
+        "topic": "home",
+        "requirements": [
+            "Describe layout",
+            "List favorite items",
+            "Use prepositions of place"
+        ],
+        "keywords": ["bedroom", "furniture", "toys", "personal", "space"]
+    },
+    {
+        "id": 32,
+        "title": "Learning a Foreign Language",
+        "prompt": "Explain the benefits of learning a foreign language. (100-120 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "expository",
+        "topic": "education",
+        "requirements": [
+            "List 3-4 benefits",
+            "Give personal experience",
+            "Use connectors"
+        ],
+        "keywords": ["language", "learning", "communication", "culture", "skills"]
+    },
+    {
+        "id": 33,
+        "title": "Genetic Engineering Debate",
+        "prompt": "Discuss the pros and cons of genetic engineering in medicine. (150-180 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "argumentative",
+        "topic": "science",
+        "requirements": [
+            "Present both sides",
+            "Use scientific terms",
+            "Consider ethics"
+        ],
+        "keywords": ["genetic", "engineering", "medicine", "ethics", "science"]
+    },
+    {
+        "id": 34,
+        "title": "A Rainy Day",
+        "prompt": "Describe what you like to do on a rainy day. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "descriptive",
+        "topic": "weather",
+        "requirements": [
+            "Describe rainy weather",
+            "List indoor activities",
+            "Express feelings"
+        ],
+        "keywords": ["rain", "weather", "indoor", "activities", "cozy"]
+    },
+    {
+        "id": 35,
+        "title": "Internet Safety",
+        "prompt": "Explain the importance of internet safety for teenagers. (100-120 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "expository",
+        "topic": "technology",
+        "requirements": [
+            "Identify risks",
+            "Give safety tips",
+            "Use clear examples"
+        ],
+        "keywords": ["internet", "safety", "privacy", "security", "online"]
+    },
+    {
+        "id": 36,
+        "title": "Economic Globalization",
+        "prompt": "Analyze the impacts of economic globalization on developing countries. (150-180 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "analytical",
+        "topic": "economics",
+        "requirements": [
+            "Define globalization",
+            "Analyze positive/negative",
+            "Use economic terms"
+        ],
+        "keywords": ["globalization", "economy", "trade", "development", "impact"]
+    },
+    {
+        "id": 37,
+        "title": "My Favorite Toy",
+        "prompt": "Write about your favorite toy and why you like it. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "descriptive",
+        "topic": "toys",
+        "requirements": [
+            "Describe the toy",
+            "Explain how you play",
+            "Use adjectives"
+        ],
+        "keywords": ["toy", "play", "favorite", "games", "fun"]
+    },
+    {
+        "id": 38,
+        "title": "Peer Pressure",
+        "prompt": "Discuss how to deal with peer pressure in school. (100-120 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "persuasive",
+        "topic": "social",
+        "requirements": [
+            "Define peer pressure",
+            "Give examples",
+            "Suggest solutions"
+        ],
+        "keywords": ["peer pressure", "friends", "confidence", "choices", "pressure"]
+    },
+    {
+        "id": 39,
+        "title": "Space Exploration",
+        "prompt": "Discuss the importance and future of space exploration. (120-150 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "argumentative",
+        "topic": "science",
+        "requirements": [
+            "Explain benefits",
+            "Address costs",
+            "Discuss future"
+        ],
+        "keywords": ["space", "exploration", "science", "technology", "future"]
+    },
+    {
+        "id": 40,
+        "title": "When I Grow Up",
+        "prompt": "Write about what you want to be when you grow up. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "narrative",
+        "topic": "future",
+        "requirements": [
+            "Name the job",
+            "Explain why you like it",
+            "Use future tense"
+        ],
+        "keywords": ["future", "job", "dream", "aspiration", "grow"]
+    },
+    {
+        "id": 41,
+        "title": "My Favorite Season",
+        "prompt": "Describe your favorite season and explain why you like it best. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "descriptive",
+        "topic": "weather",
+        "requirements": [
+            "Describe the weather",
+            "List seasonal activities",
+            "Explain your preference"
+        ],
+        "keywords": ["season", "weather", "activities", "favorite", "nature"]
+    },
+    {
+        "id": 42,
+        "title": "Mental Health Awareness",
+        "prompt": "Why is mental health important and how can we support it? (120-150 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "expository",
+        "topic": "health",
+        "requirements": [
+            "Explain importance",
+            "Discuss stigmas",
+            "Suggest support methods"
+        ],
+        "keywords": ["mental health", "wellness", "awareness", "support", "mindfulness"]
+    },
+    {
+        "id": 43,
+        "title": "Helping Animals",
+        "prompt": "Write about how we can help and protect animals. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "persuasive",
+        "topic": "animals",
+        "requirements": [
+            "List 3 ways to help",
+            "Explain why it's important",
+            "Use simple language"
+        ],
+        "keywords": ["animals", "help", "protection", "care", "kindness"]
+    },
+    {
+        "id": 44,
+        "title": "Digital Citizenship",
+        "prompt": "What does it mean to be a good digital citizen? (100-120 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "expository",
+        "topic": "technology",
+        "requirements": [
+            "Define digital citizenship",
+            "List responsibilities",
+            "Give online etiquette tips"
+        ],
+        "keywords": ["digital", "citizenship", "online", "responsibility", "etiquette"]
+    },
+    {
+        "id": 45,
+        "title": "Renewable Energy",
+        "prompt": "Compare different renewable energy sources and their benefits. (150-180 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "analytical",
+        "topic": "environment",
+        "requirements": [
+            "Compare 3 energy types",
+            "Explain benefits",
+            "Discuss limitations"
+        ],
+        "keywords": ["renewable", "energy", "solar", "wind", "sustainability"]
+    },
+    {
+        "id": 46,
+        "title": "A Trip to the Moon",
+        "prompt": "Imagine you traveled to the moon. What did you see? (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "imaginative",
+        "topic": "space",
+        "requirements": [
+            "Use imagination",
+            "Describe moon surface",
+            "Use simple past tense"
+        ],
+        "keywords": ["moon", "space", "imagination", "adventure", "stars"]
+    },
+    {
+        "id": 47,
+        "title": "Volunteer Work",
+        "prompt": "Describe the value of volunteer work in the community. (100-120 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "persuasive",
+        "topic": "community",
+        "requirements": [
+            "Explain benefits to community",
+            "Describe personal growth",
+            "Suggest volunteer opportunities"
+        ],
+        "keywords": ["volunteer", "community", "service", "helping", "contribution"]
+    },
+    {
+        "id": 48,
+        "title": "Gender Equality",
+        "prompt": "Discuss the importance of gender equality in education and work. (150-180 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "argumentative",
+        "topic": "social",
+        "requirements": [
+            "Define gender equality",
+            "Provide statistics/examples",
+            "Suggest improvements"
+        ],
+        "keywords": ["gender", "equality", "rights", "fairness", "opportunity"]
+    },
+    {
+        "id": 49,
+        "title": "My Superpower",
+        "prompt": "If you could have any superpower, what would it be and why? (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "imaginative",
+        "topic": "fantasy",
+        "requirements": [
+            "Choose a superpower",
+            "Explain how you'd use it",
+            "Be creative"
+        ],
+        "keywords": ["superpower", "imagination", "hero", "fantasy", "powers"]
+    },
+    {
+        "id": 50,
+        "title": "Plastic Pollution",
+        "prompt": "Analyze the problem of plastic pollution and propose solutions. (120-150 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "analytical",
+        "topic": "environment",
+        "requirements": [
+            "Explain the problem",
+            "Discuss impacts",
+            "Propose 3 solutions"
+        ],
+        "keywords": ["plastic", "pollution", "ocean", "waste", "solutions"]
+    },
+    {
+        "id": 51,
+        "title": "My Morning Routine",
+        "prompt": "Describe what you do every morning before school. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "descriptive",
+        "topic": "routine",
+        "requirements": [
+            "List activities in order",
+            "Use time words",
+            "Include 4-5 activities"
+        ],
+        "keywords": ["morning", "routine", "breakfast", "prepare", "school"]
+    },
+    {
+        "id": 52,
+        "title": "Cybersecurity",
+        "prompt": "Why is cybersecurity important in today's digital world? (120-150 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "expository",
+        "topic": "technology",
+        "requirements": [
+            "Define cybersecurity",
+            "Explain threats",
+            "Suggest protection methods"
+        ],
+        "keywords": ["cybersecurity", "protection", "digital", "privacy", "safety"]
+    },
+    {
+        "id": 53,
+        "title": "If I Were a Teacher",
+        "prompt": "Imagine you were a teacher. How would you run your class? (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "imaginative",
+        "topic": "school",
+        "requirements": [
+            "Use conditional tense",
+            "Describe classroom rules",
+            "Explain teaching methods"
+        ],
+        "keywords": ["teacher", "classroom", "imagine", "students", "teaching"]
+    },
+    {
+        "id": 54,
+        "title": "Sustainable Fashion",
+        "prompt": "Discuss the importance of sustainable fashion choices. (100-120 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "persuasive",
+        "topic": "environment",
+        "requirements": [
+            "Define sustainable fashion",
+            "Explain environmental impact",
+            "Suggest alternatives"
+        ],
+        "keywords": ["fashion", "sustainable", "environment", "clothing", "choices"]
+    },
+    {
+        "id": 55,
+        "title": "Social Justice",
+        "prompt": "Explore the concept of social justice in modern society. (150-180 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "argumentative",
+        "topic": "social",
+        "requirements": [
+            "Define social justice",
+            "Give contemporary examples",
+            "Discuss challenges"
+        ],
+        "keywords": ["social justice", "equality", "rights", "fairness", "society"]
+    },
+    {
+        "id": 56,
+        "title": "My Favorite Sport",
+        "prompt": "Write about your favorite sport and why you enjoy it. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "descriptive",
+        "topic": "sports",
+        "requirements": [
+            "Name the sport",
+            "Describe how to play",
+            "Explain why you like it"
+        ],
+        "keywords": ["sport", "game", "exercise", "team", "fun"]
+    },
+    {
+        "id": 57,
+        "title": "Media Literacy",
+        "prompt": "Explain why media literacy is important in the digital age. (120-150 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "expository",
+        "topic": "education",
+        "requirements": [
+            "Define media literacy",
+            "Discuss fake news",
+            "Suggest critical thinking skills"
+        ],
+        "keywords": ["media", "literacy", "critical thinking", "information", "analysis"]
+    },
+    {
+        "id": 58,
+        "title": "A Magic Treehouse",
+        "prompt": "Imagine you found a magic treehouse. Where would it take you? (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "imaginative",
+        "topic": "fantasy",
+        "requirements": [
+            "Describe the treehouse",
+            "Choose a destination",
+            "Use creative details"
+        ],
+        "keywords": ["magic", "treehouse", "adventure", "imagination", "travel"]
+    },
+    {
+        "id": 59,
+        "title": "Youth Activism",
+        "prompt": "Discuss the role of youth in social and political activism. (120-150 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "argumentative",
+        "topic": "social",
+        "requirements": [
+            "Give examples of youth activism",
+            "Discuss impact",
+            "Consider challenges"
+        ],
+        "keywords": ["youth", "activism", "change", "voice", "movement"]
+    },
+    {
+        "id": 60,
+        "title": "Good Manners",
+        "prompt": "Explain why good manners are important in daily life. (80-100 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "expository",
+        "topic": "social",
+        "requirements": [
+            "List important manners",
+            "Explain their importance",
+            "Give examples"
+        ],
+        "keywords": ["manners", "politeness", "respect", "etiquette", "behavior"]
+    },
+    {
+        "id": 61,
+        "title": "My Favorite Holiday",
+        "prompt": "Write about your favorite holiday and how you celebrate it. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "narrative",
+        "topic": "holidays",
+        "requirements": [
+            "Name the holiday",
+            "Describe traditions",
+            "Explain why it's special"
+        ],
+        "keywords": ["holiday", "celebration", "tradition", "family", "fun"]
+    },
+    {
+        "id": 62,
+        "title": "Urban Farming",
+        "prompt": "Discuss the benefits and challenges of urban farming. (120-150 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "analytical",
+        "topic": "environment",
+        "requirements": [
+            "Define urban farming",
+            "Discuss benefits",
+            "Address challenges"
+        ],
+        "keywords": ["urban", "farming", "agriculture", "sustainability", "city"]
+    },
+    {
+        "id": 63,
+        "title": "If Animals Could Talk",
+        "prompt": "Imagine if your pet or a wild animal could talk. What would it say? (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "imaginative",
+        "topic": "animals",
+        "requirements": [
+            "Choose an animal",
+            "Imagine its thoughts",
+            "Write dialogue"
+        ],
+        "keywords": ["animals", "talk", "imagination", "dialogue", "funny"]
+    },
+    {
+        "id": 64,
+        "title": "Study Habits",
+        "prompt": "Share effective study habits for academic success. (100-120 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "expository",
+        "topic": "education",
+        "requirements": [
+            "List 4-5 study habits",
+            "Explain each one",
+            "Give personal tips"
+        ],
+        "keywords": ["study", "habits", "learning", "academic", "success"]
+    },
+    {
+        "id": 65,
+        "title": "Quantum Computing",
+        "prompt": "Explain the basics of quantum computing and its potential impacts. (150-180 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "expository",
+        "topic": "science",
+        "requirements": [
+            "Explain basic concepts",
+            "Discuss potential applications",
+            "Consider implications"
+        ],
+        "keywords": ["quantum", "computing", "technology", "future", "science"]
+    },
+    {
+        "id": 66,
+        "title": "A Day Without Technology",
+        "prompt": "Describe what you would do on a day without any technology. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "narrative",
+        "topic": "technology",
+        "requirements": [
+            "List alternative activities",
+            "Describe feelings",
+            "Use imagination"
+        ],
+        "keywords": ["technology", "unplugged", "activities", "imagination", "simple"]
+    },
+    {
+        "id": 67,
+        "title": "Cultural Heritage",
+        "prompt": "Discuss the importance of preserving cultural heritage. (120-150 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "persuasive",
+        "topic": "culture",
+        "requirements": [
+            "Define cultural heritage",
+            "Explain importance",
+            "Suggest preservation methods"
+        ],
+        "keywords": ["heritage", "culture", "preservation", "tradition", "history"]
+    },
+    {
+        "id": 68,
+        "title": "My Imaginary Friend",
+        "prompt": "Write about an imaginary friend you had or would like to have. (60-80 words)",
+        "grade": "primary_school",
+        "level": "beginner",
+        "genre": "imaginative",
+        "topic": "fantasy",
+        "requirements": [
+            "Describe the friend",
+            "Explain their personality",
+            "Share adventures"
+        ],
+        "keywords": ["imaginary", "friend", "fantasy", "play", "adventure"]
+    },
+    {
+        "id": 69,
+        "title": "Financial Literacy",
+        "prompt": "Why is financial literacy important for young people? (100-120 words)",
+        "grade": "middle_school",
+        "level": "intermediate",
+        "genre": "expository",
+        "topic": "education",
+        "requirements": [
+            "Define financial literacy",
+            "Explain its importance",
+            "Give basic money tips"
+        ],
+        "keywords": ["financial", "literacy", "money", "budget", "saving"]
+    },
+    {
+        "id": 70,
+        "title": "Bioethics in Medicine",
+        "prompt": "Discuss ethical considerations in modern medical research. (150-180 words)",
+        "grade": "high_school",
+        "level": "advanced",
+        "genre": "argumentative",
+        "topic": "science",
+        "requirements": [
+            "Identify ethical issues",
+            "Use medical examples",
+            "Consider different viewpoints"
+        ],
+        "keywords": ["bioethics", "medicine", "research", "ethics", "healthcare"]
+    }
+]
+
+
